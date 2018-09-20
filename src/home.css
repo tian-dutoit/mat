@@ -1,0 +1,14 @@
+.home-container {
+  display: flex;
+  flex-flow: column nowrap;
+}
+
+.header {
+  height: 150px;
+  background-color: lightgray;
+}
+
+.content {
+  padding-top: 75px;
+  height: 1000px;
+}
