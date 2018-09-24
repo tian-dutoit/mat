@@ -12,3 +12,7 @@
   padding-top: 75px;
   height: 1000px;
 }
+
+.react-autosuggest__container {
+  margin-top: 75px;
+}

@@ -1,6 +1,8 @@
 import React, { Component } from 'react'
 import Button from '@material-ui/core/Button'
 import EnhancedTable from './EnhancedTable'
+// import Auto from './Auto'
+import Search from './Search'
 import './Home.css'
 
 class Home extends Component {
@@ -13,6 +15,8 @@ class Home extends Component {
           Home sweet home
         </Button>
         <EnhancedTable />
+        {/* <Auto /> */}
+        <Search />
        </div>
       </div>
     )
