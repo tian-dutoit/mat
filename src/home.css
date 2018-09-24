@@ -15,4 +15,9 @@
 
 .react-autosuggest__container {
   margin-top: 75px;
+  width: 100%;
+}
+
+.react-autosuggest__input {
+  width: 50%;
 }
